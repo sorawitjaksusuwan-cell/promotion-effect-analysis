@@ -69,5 +69,5 @@ Statistical evaluation of a 15% discount campaign's effect on conversion rate, s
 
 ## Links
 
-- [Analysis notebook — North](https://colab.research.google.com/drive/1yinlDSUmTDefqo6UZMFGEXQoQ1_zZVR8)
+- [Analysis notebook — North](https://colab.research.google.com/drive/1wcD2h5eX9vLmPBo4A3uOpyiYU6x53IjH?usp=sharing)
 - [Analysis notebook — South](https://colab.research.google.com/drive/10peOIxjp0qjV6dqQyGkqHKq6GXRJVhmZ)
